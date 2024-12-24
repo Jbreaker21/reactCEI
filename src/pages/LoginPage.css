@@ -1,0 +1,30 @@
+.login-page{
+    background-color: #161716;
+    height: 100vh;
+}
+
+.login-image, .login-image img{
+    border-radius: 100%;
+}
+
+.login-image{
+    text-align: center;
+    border-radius: 100%;
+}
+
+.login-image img{
+    border: 1px solid gray;
+    padding: 15px;
+}
+
+.login-title{
+    color: white;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.page-title{
+    color: white;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: lighter;
+}
